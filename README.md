@@ -1,7 +1,7 @@
 # Voice-Controlled-Arudino-Car
 A voice controlled robot car using Ardino uno, HC-05 Bluetooth and L298N motor driver.
 
-# Voice Controlled Arduino Car
+# Voice Controlled Aruduino Car
 This repository contains the source code and documentation for a voice-controlled robot car.
 
 ## Hardware Components
